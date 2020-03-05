@@ -1,5 +1,5 @@
 echo "Sending mail is started"
-SUBJECT="OE Response For last 12 hours"
+SUBJECT="OE Response For last 12 hours and minutes"
 FROM="no-reply@innovatemr.com"
 TO="maulik@innovatemr.com,arihant.jain@ongraph.com,kunal@innovatemr.com,kranthi@innovatemr.com"
 MESSAGE="Please Find attached OE's Data for last 12 hours"
